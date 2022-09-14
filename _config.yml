@@ -13,17 +13,17 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title:             Evolutionary genomics of pathogens
+title:             International Symposium on Cereal Leaf Blights 2024
 author:            
   name:            Daniel Croll
   email:           daniel.croll@unine.ch
-description:       Laboratory of Evolutionary Genetics headed by Prof. Daniel Croll, University of Neuchatel
+description:       International Symposium on Cereal Leaf Blights 2024
 google_analytics:  UA-1217317-3
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://www.pathogen-genomics.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 social_links:
-  twitter:         danielcroll
+  twitter:         isclb2024
   github:          crolllab
 
 # Build settings
