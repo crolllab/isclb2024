@@ -5,9 +5,11 @@ permalink: /
 description: International Symposium on Cereal Leaf Blights 2024
 ---
 
-# We are looking forward to welcome you in 2024!
+# We are looking forward to welcome you soon!
 
 The next International Symposium on Cereal Leaf Blights will take place early summer 2024 in Zurich, Switzerland.
+
+Follow us on [Twitter](https://twitter.com/isclb2024)
 
 Local organizers:
 Bruce A. McDonald, ETH Zürich
