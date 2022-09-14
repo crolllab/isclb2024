@@ -5,6 +5,7 @@ permalink: /
 description: International Symposium on Cereal Leaf Blights 2024
 ---
 
+# We are looking forward to welcome you in 2024!
 
 <style>
  .grid {
