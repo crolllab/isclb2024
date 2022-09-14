@@ -28,13 +28,19 @@ description: International Symposium on Cereal Leaf Blights 2024
           <p>
           <br />          
           The next International Symposium on Cereal Leaf Blights will take place early summer 2024 in Zurich, Switzerland.
+          <br />
 
           Local organizers:
+          <br />
           Bruce A. McDonald, ETH Zürich
+          <br />
           Daniel Croll, University of Neuchâtel
+          <br />
 
           Co-Chairs of the international organizing committee:
+          <br />
           Eva H. Stukenbrock, Kiel University / Max Plank
+          <br />
           Tim Friesen, USDA ARS
           <br />
           <br />
