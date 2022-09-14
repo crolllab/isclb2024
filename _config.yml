@@ -20,7 +20,7 @@ author:
 description:       International Symposium on Cereal Leaf Blights 2024
 google_analytics:  UA-1217317-3
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://www.pathogen-genomics.org" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://isclb2024.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 social_links:
   twitter:         isclb2024
