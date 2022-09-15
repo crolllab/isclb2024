@@ -18,7 +18,7 @@ Follow us on [Twitter](https://twitter.com/isclb2024).
 [Daniel Croll](https://pathogen-genomics.org), University of Neuchâtel  
 
 ### Co-Chairs of the international organizing committee:  
-[Eva H. Stukenbrock](http://web.evolbio.mpg.de/envgen/), Kiel University / Max Plank  
+[Eva H. Stukenbrock](http://web.evolbio.mpg.de/envgen/), Kiel University / Max Planck Institute of Evolutionary Biology
 [Timothy Friesen](https://www.ars.usda.gov/people-locations/person/?person-id=22061), USDA ARS  
 
 ---  
