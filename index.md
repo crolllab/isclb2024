@@ -12,15 +12,15 @@ The next International Symposium on Cereal Leaf Blights will take place early su
 Follow us on [Twitter](https://twitter.com/isclb2024).  
 
 ---  
-<br/><br/>
+
 ### Local organizers:  
 [Bruce A. McDonald](https://path.ethz.ch), ETH Zürich  
 [Daniel Croll](https://pathogen-genomics.org), University of Neuchâtel  
 <br/><br/>
 ### Co-Chairs of the international organizing committee:  
-[Eva H. Stukenbrock](http://web.evolbio.mpg.de/envgen/), Kiel University / Max Planck Institute of Evolutionary Biology
+[Eva H. Stukenbrock](http://web.evolbio.mpg.de/envgen/), Kiel University / Max Planck Institute of Evolutionary Biology  
 [Timothy Friesen](https://www.ars.usda.gov/people-locations/person/?person-id=22061), USDA ARS  
-<br/><br/>
+<br/><br/>  
 ---  
-<br/><br/>
+<br/><br/>  
 <iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePpIBxb3tT6y8LkVUxRO1i6f6CyxNm1F-3YLgeAlNC0rMIHQ/viewform?embedded=true&hl=en" width="640" height="574" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
