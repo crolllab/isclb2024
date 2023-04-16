@@ -13,7 +13,7 @@ description: International Symposium on Cereal Leaf Blights
   }
   h1 {
     margin: 30px 0;
-    font-size: 4em;
+    font-size: 2em;
     line-height: 1;
     letter-spacing: -1px;
   }
