@@ -37,4 +37,4 @@ Bruce A. McDonald, ETH Zürich ([website](https://path.ethz.ch))
 
 ---  
 
-<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePpIBxb3tT6y8LkVUxRO1i6f6CyxNm1F-3YLgeAlNC0rMIHQ/viewform?embedded=true&hl=en" width="480" height="400" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
+<iframe src="https://docs.google.com/forms/d/e/1FAIpQLSePpIBxb3tT6y8LkVUxRO1i6f6CyxNm1F-3YLgeAlNC0rMIHQ/viewform?embedded=true&hl=en" width="400" height="420" frameborder="0" marginheight="0" marginwidth="0">Loading…</iframe>
