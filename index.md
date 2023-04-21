@@ -23,7 +23,7 @@ description: International Symposium on Cereal Leaf Blights
 
 The next International Symposium on Cereal Leaf Blights will take place in June 2024 in Zurich, Switzerland. We are planning a three-day scientific event with an optional day for an outdoor trip.  
 
-Preliminary program: 
+### Preliminary program
 
 ---  |---
 5 June |Evening reception 
