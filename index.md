@@ -27,12 +27,12 @@ Preliminary program:
 
 ---  |---
 5 June |Evening reception 
-6-8 June |Scientific program
+6-8 June |Scientific program  
 9 June |Field trip  
 
 Venue: ETH Zurich, Switzerland
 
-Accommodation: Participants will need to book accommodation independently. More information will be provided.
+Accommodation: Participants will need to book accommodation independently. More information will follow.
 
 Follow us on [Twitter](https://twitter.com/isclb2024) and sign-up for e-mail alerts (see below).  
 
