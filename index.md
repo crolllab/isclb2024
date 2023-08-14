@@ -32,9 +32,16 @@ The next International Symposium on Cereal Leaf Blights will take place in June 
 
 Venue: ETH Zurich, Switzerland
 
-Accommodation: Participants will need to book accommodation independently. Helpful information is available [here](https://www.zuerich.com/en/visit/accommodation-in-zurich).
+### Accommodation
 
-Follow us on [Twitter](https://twitter.com/isclb2024) and sign-up for e-mail alerts (see below).  
+Participants will need to book accommodation independently. Helpful information is available [here](https://www.zuerich.com/en/visit/accommodation-in-zurich).
+
+For booking an accommodation, you can opt to use this special link for a selection of accommodation proposed by the Tourist Office [here](https://meeting.zuerich.com/en/visit/international-symposium-on-cereal-leaf-blights-2024).
+
+
+### Staying in touch
+
+Follow us on [Twitter/X](https://twitter.com/isclb2024) and sign-up for e-mail alerts (see below).  
 
 ---  
 
